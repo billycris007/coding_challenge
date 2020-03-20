@@ -11,6 +11,6 @@ Using tools such as:
 - Mysql for the database
 
 ##Libraries
-a. https://github.com/antoniandre/vue-cal
-b. https://www.npmjs.com/package/vue-bootstrap-datetimepicker
+<br>a. https://github.com/antoniandre/vue-cal
+<br>b. https://www.npmjs.com/package/vue-bootstrap-datetimepicker
 
